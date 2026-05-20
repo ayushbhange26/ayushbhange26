@@ -1,23 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on  
+🔭 I’m currently working at AIT Global India
 <br>Full-stack web projects using MERN stack  
-
-👯 I’m looking to collaborate on  
-<br>Web development projects, open-source contributions, and college-level tech projects  
-
-🤝 I’m looking for help with  
-<br>System design, scalable backend architecture, and advanced React concepts  
-
-🌱 I’m currently learning  
-<br>Full Stack Development  
-<br>Data Structures & Algorithms, Node.js, MongoDB, React, and basic AI concepts  
-
-💬 Ask me about  
-<br>JavaScript, MERN stack, REST APIs, MongoDB, and backend development  
-
-⚡ Fun fact  
-<br>I enjoy turning real-world problems into practical software solutions  
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-bhange-44934125b/)
